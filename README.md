@@ -1,6 +1,6 @@
-# job-hunt-template
+# JobScoutt
 
-[![job_hunt](https://github.com/brewscoutt/job-hunt-template/actions/workflows/job_hunt.yml/badge.svg)](https://github.com/brewscoutt/job-hunt-template/actions/workflows/job_hunt.yml)
+[![JobScoutt](https://github.com/brewscoutt/JobScoutt/actions/workflows/job_hunt.yml/badge.svg)](https://github.com/brewscoutt/JobScoutt/actions/workflows/job_hunt.yml)
 
 A passive monitor for job openings at a curated list of orgs. Polls each
 org's applicant-tracking system (ATS) directly, filters by keyword,

@@ -1,4 +1,4 @@
-name: job_hunt
+name: JobScoutt
 
 on:
   schedule:
