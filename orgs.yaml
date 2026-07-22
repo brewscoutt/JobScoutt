@@ -1,0 +1,32 @@
+# Target orgs for job_hunt.py's curated monitor. DELETE the two examples
+# below and replace with your own targets — they're just here so the
+# template runs and finds real matches out of the box.
+#
+# ats is "greenhouse", "lever", or "workday".
+#
+# HOW TO FIND THE TOKEN: open the org's careers page, view source / network tab.
+#   Greenhouse -> boards.greenhouse.io/<token>  (token is the slug)
+#   Lever      -> jobs.lever.co/<token>          (token is the slug)
+#   Workday    -> <tenant>.<host>.myworkdayjobs.com/<site> -- host is the wdN
+#                 subdomain segment (wd1, wd3, wd5, ...), tenant is the company
+#                 slug, site is the career-site name (often External_Career_Site
+#                 or Careers). All three are visible in the URL.
+#
+# Verify a new entry with: python3 job_hunt.py --dry-run
+# (an HTTP error means the token/ats is wrong -- see job_hunt.py's collect())
+#
+# Note: this file is parsed by a small stdlib-only parser in job_hunt.py, not
+# PyYAML -- it only supports this flat shape (a list of string-keyed mappings,
+# full-line and trailing '#' comments). Don't add nesting or multiline values.
+
+# EXAMPLE (Greenhouse) — delete once you've added your own orgs.
+- name: Recorded Future
+  ats: greenhouse
+  token: recordedfuture
+
+# EXAMPLE (Workday) — delete once you've added your own orgs.
+- name: RAND
+  ats: workday
+  host: wd5
+  tenant: rand
+  site: External_Career_Site

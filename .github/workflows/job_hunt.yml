@@ -1,0 +1,50 @@
+name: job_hunt
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: "Send one synthetic test email instead of a real run"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run job monitor
+        env:
+          VOYAGE_API_KEY: ${{ secrets.VOYAGE_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          JOB_MONITOR_STATE_PATH: ${{ github.workspace }}/data/state.json
+          JOB_MONITOR_DIGEST_PATH: ${{ github.workspace }}/data/digest.md
+          JOB_MONITOR_LOG_PATH: ${{ github.workspace }}/data/log.jsonl
+          JOB_MONITOR_TARGET_EMBED_CACHE_PATH: ${{ github.workspace }}/data/target_embeddings.json
+        run: |
+          if [ "${{ inputs.test_email }}" = "true" ]; then
+            python3 job_hunt.py --test-email
+          else
+            python3 job_hunt.py
+          fi
+
+      - name: Commit updated state
+        run: |
+          git config user.name "job_hunt bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "job_hunt: update state $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          else
+            echo "no state changes to commit"
+          fi
