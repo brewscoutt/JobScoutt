@@ -7,3 +7,7 @@
 ## New roles — 2026-07-26 09:50 UTC
 
 - **RAND**: [Open Source Research Resident, Emerging Technology & Security](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/Open-Source-Research-Resident--Emerging-Technology---Security_R3599) — 5 Locations
+
+## New roles — 2026-07-30 17:14 UTC
+
+- **Recorded Future**: [Sr.Product Manager - Threat Intelligence Analytics](https://job-boards.greenhouse.io/recordedfuture/jobs/8652544002) — London, UK
