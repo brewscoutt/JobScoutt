@@ -11,3 +11,8 @@
 ## New roles — 2026-07-30 17:14 UTC
 
 - **Recorded Future**: [Sr.Product Manager - Threat Intelligence Analytics](https://job-boards.greenhouse.io/recordedfuture/jobs/8652544002) — London, UK
+
+## New roles — 2026-08-10 20:31 UTC
+
+- **Recorded Future**: [Associate Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8691953002) — London, UK
+- **Recorded Future**: [Associate Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8694161002) — Washington, DC
