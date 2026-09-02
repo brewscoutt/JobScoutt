@@ -16,3 +16,7 @@
 
 - **Recorded Future**: [Associate Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8691953002) — London, UK
 - **Recorded Future**: [Associate Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8694161002) — Washington, DC
+
+## New roles — 2026-09-02 19:05 UTC
+
+- **RAND**: [AI Policy Research Resident, Associate / Specialist](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Policy-Research-Resident--Associate---Specialist_R3554) — 6 Locations
