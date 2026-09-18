@@ -20,3 +20,7 @@
 ## New roles — 2026-09-02 19:05 UTC
 
 - **RAND**: [AI Policy Research Resident, Associate / Specialist](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Policy-Research-Resident--Associate---Specialist_R3554) — 6 Locations
+
+## New roles — 2026-09-18 18:44 UTC
+
+- **RAND**: [Information Scientist (Applied Technology Policy)](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/Information-Scientist--Applied-Technology-Policy-_R3628) — 3 Locations
