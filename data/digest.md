@@ -28,3 +28,7 @@
 ## New roles — 2026-09-29 00:03 UTC
 
 - **RAND**: [AI Policy Research Resident](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Policy-Research-Resident_R3640) — 5 Locations
+
+## New roles — 2026-10-02 17:01 UTC
+
+- **Recorded Future**: [Threat Intelligence Response Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8859088002) — London, England, UK
