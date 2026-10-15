@@ -32,3 +32,7 @@
 ## New roles — 2026-10-02 17:01 UTC
 
 - **Recorded Future**: [Threat Intelligence Response Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8859088002) — London, England, UK
+
+## New roles — 2026-10-15 08:41 UTC
+
+- **RAND**: [RAND Summer Associate Program - POLICY Research](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/RAND-Summer-Associate-Program---POLICY-Research_R3660) — 5 Locations
