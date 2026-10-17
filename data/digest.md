@@ -36,3 +36,8 @@
 ## New roles — 2026-10-15 08:41 UTC
 
 - **RAND**: [RAND Summer Associate Program - POLICY Research](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/RAND-Summer-Associate-Program---POLICY-Research_R3660) — 5 Locations
+
+## New roles — 2026-10-17 02:07 UTC
+
+- **RAND**: [Education Policy Researcher](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/Education-Policy-Researcher_R3667-1) — 4 Locations
+- **RAND**: [Health Policy Researcher](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/Health-Policy-Researcher_R3666) — 4 Locations
