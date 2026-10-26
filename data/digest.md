@@ -41,3 +41,7 @@
 
 - **RAND**: [Education Policy Researcher](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/Education-Policy-Researcher_R3667-1) — 4 Locations
 - **RAND**: [Health Policy Researcher](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/Health-Policy-Researcher_R3666) — 4 Locations
+
+## New roles — 2026-10-26 23:27 UTC
+
+- **RAND**: [National Security Economics Researcher](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/National-Security-Economics-Researcher_R3677) — Washington, DC (DC Metro Area)
