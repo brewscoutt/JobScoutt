@@ -45,3 +45,8 @@
 ## New roles — 2026-10-26 23:27 UTC
 
 - **RAND**: [National Security Economics Researcher](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/National-Security-Economics-Researcher_R3677) — Washington, DC (DC Metro Area)
+
+## New roles — 2026-10-28 17:37 UTC
+
+- **Recorded Future**: [Senior Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8922019002) — Washington, DC
+- **Recorded Future**: [Senior Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8917956002) — Boston, MA
