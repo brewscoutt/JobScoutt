@@ -50,3 +50,8 @@
 
 - **Recorded Future**: [Senior Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8922019002) — Washington, DC
 - **Recorded Future**: [Senior Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8917956002) — Boston, MA
+
+## New roles — 2026-10-28 23:42 UTC
+
+- **Recorded Future**: [Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8917968002) — Boston, MA
+- **Recorded Future**: [Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8922640002) — Washington, DC
