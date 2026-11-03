@@ -55,3 +55,7 @@
 
 - **Recorded Future**: [Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8917968002) — Boston, MA
 - **Recorded Future**: [Threat Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8922640002) — Washington, DC
+
+## New roles — 2026-11-03 04:34 UTC
+
+- **RAND**: [AI Security Researcher](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Security-Researcher_R3684) — 5 Locations
