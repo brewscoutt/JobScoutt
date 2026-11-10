@@ -59,3 +59,7 @@
 ## New roles — 2026-11-03 04:34 UTC
 
 - **RAND**: [AI Security Researcher](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Security-Researcher_R3684) — 5 Locations
+
+## New roles — 2026-11-10 21:35 UTC
+
+- **Recorded Future**: [Senior Network Intelligence Analyst](https://job-boards.greenhouse.io/recordedfuture/jobs/8936895002) — Saudi Arabia
