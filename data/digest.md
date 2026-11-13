@@ -67,3 +67,7 @@
 ## New roles — 2026-11-11 03:44 UTC
 
 - **RAND**: [Senior Researcher, AI Strategy and Adoption (Part-Time, Term)](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/USA---Remote/Senior-Researcher--AI-Strategy-and-Adoption--Part-Time--Term-_R3688) — USA - Remote
+
+## New roles — 2026-11-13 00:47 UTC
+
+- **RAND**: [Distinguished Chair for Space Defense Policy](https://rand.wd5.myworkdayjobs.com/External_Career_Site/job/Washington-DC-DC-Metro-Area/Distinguished-Chair-for-Space-Defense-Policy_R3689) — 3 Locations
